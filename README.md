@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/131386177-004d86df-a21b-4257-a502-0fe6c1e0ff4c.png">
   <br />
   Linode Guide
 </h1>
@@ -9,7 +9,7 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
  <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/131386183-44e20267-06a3-47c4-9b47-0dbfbe4be028.png">
   <br />
 </p>
 
